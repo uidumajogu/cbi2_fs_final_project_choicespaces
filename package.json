@@ -4,7 +4,9 @@
   "scripts": {
     "server": "cd server && nodemon server.js",
     "frontend": "cd frontend && npm start",
-    "dev": "concurrently \"npm run server\" \"npm run frontend\""
+    "dev": "concurrently \"npm run server\" \"npm run frontend\"",
+    "start": "cd server && node server.js",
+    "heroku-postbuild": "cd frontend && npm install && npm run build"
   },
   "devDependencies": {
     "concurrently": "^4.1.2"
