@@ -1,0 +1,20 @@
+.dropDownListLabel {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  align-content: center;
+  padding-right: "10px";
+}
+
+.dropDownListContainer {
+  position: absolute;
+  border: 1px solid rgba(53, 79, 139, 0.8);
+  width: 200px !important;
+  border-radius: 5px;
+  background-color: #ffffff;
+  overflow: auto;
+}
+
+.dropDownList {
+  padding: 10px;
+}

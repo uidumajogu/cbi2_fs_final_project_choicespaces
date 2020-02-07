@@ -1,0 +1,50 @@
+.ProfileImageUpload-Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  align-content: left;
+}
+
+.ProfileImageUpload-row-Wrapper {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  align-content: center;
+  width: 400px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #21528d;
+}
+
+.ProfileImageUpload-error-message {
+  margin-top: 3px;
+  color: #ff9d8e;
+  text-align: left;
+  font-size: 10px;
+}
+
+.ProfileImageUpload-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.ProfileImageUpload-image-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 1px solid #cfd4dd;
+  padding: 10px;
+}
+
+.ProfileImageUpload-image-box img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}

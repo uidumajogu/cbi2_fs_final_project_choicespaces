@@ -1,0 +1,17 @@
+.imageSlider-main-view {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.imageSlider-main-view-image {
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.imageSlider-main-view-image img {
+  object-fit: cover;
+  border-radius: 5px;
+}

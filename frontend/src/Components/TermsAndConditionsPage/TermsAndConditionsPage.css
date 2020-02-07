@@ -1,0 +1,13 @@
+.termsAndConditionsPage-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f4fb;
+  width: 100%;
+  height: 100vh;
+  color: #242648;
+  font-size: 12px;
+}

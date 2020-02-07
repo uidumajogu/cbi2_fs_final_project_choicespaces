@@ -1,0 +1,7 @@
+.inputBox {
+  background-color: #ffffff;
+}
+
+.inputBox:focus {
+  background-color: #f3f4fb !important;
+}

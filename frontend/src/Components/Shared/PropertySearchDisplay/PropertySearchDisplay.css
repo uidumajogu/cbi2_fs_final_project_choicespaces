@@ -1,0 +1,49 @@
+.propertySearchDisplay-card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 50px;
+  font-size: 14px;
+}
+
+.propertySearchDisplay-card {
+  width: 300px;
+  color: #6e7189;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.propertySearchDisplay-card img {
+  object-fit: cover;
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.propertySearchDisplay-card p {
+  font-size: 10px;
+  padding: 0;
+}
+.propertySearchDisplay-card h3 {
+  color: #242648;
+}
+
+.propertySearchDisplay-card h3 span {
+  font-weight: 300;
+}
+
+.propertySearchDisplay-card-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.propertySearchDisplay-card-favIcons {
+  padding: 5px;
+}
+
+.propertySearchDisplay-card-favIcons img {
+  object-fit: cover;
+  width: 20px;
+  height: 20px;
+}

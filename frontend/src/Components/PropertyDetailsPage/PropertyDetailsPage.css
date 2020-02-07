@@ -1,0 +1,84 @@
+.propertyDetailsPage-header {
+  width: 100%;
+  color: #6e7189;
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  padding: 50px 100px;
+  background-color: #ffffff;
+}
+
+.propertyDetailsPage-header-right {
+  width: 25%;
+  background: #ffffff;
+  border: 1px solid #dde0e7;
+  border-radius: 5px;
+  padding: 20px;
+  color: #242648;
+  font-weight: bold;
+}
+
+.propertyDetailsPage-header-right p {
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+  line-height: 18px;
+}
+.propertyDetailsPage-header-right h3 {
+  color: #21528d;
+  padding: 0;
+  margin: 0;
+}
+
+.propertyDetailsPage-header-right h3 span {
+  font-weight: 300;
+}
+
+.propertyDetailsPage-header-left {
+  width: 60%;
+}
+
+.propertyDetailsPage-details {
+  width: 100%;
+  color: #6e7189;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  padding: 0 150px;
+  background-color: #ffffff;
+}
+
+.propertyDetailsPage-details p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.propertyDetailsPage-details-left {
+  width: 30%;
+}
+
+.propertyDetailsPage-details-right {
+  width: 60%;
+}
+
+.propertyDetailsPage-details-left p {
+  font-weight: bold;
+  color: #242648;
+}
+
+.propertyDetailsPage-details-right p {
+  font-weight: bold;
+  color: #242648;
+}
+
+.propertyDetailsPage-details-features {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.propertyDetailsPage-vendor-name {
+  text-align: left;
+  font-size: 10px;
+  color: #6e7189;
+}

@@ -1,0 +1,32 @@
+html,
+body {
+  background-color: #ffffff;
+  font-family: "Comfortaa", cursive;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: 90999f;
+  opacity: 0.5; /* Firefox */
+}
+
+a:link {
+  text-decoration: none;
+}

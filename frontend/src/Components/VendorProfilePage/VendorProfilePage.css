@@ -1,0 +1,21 @@
+.vendorProfilePage-Wrapper {
+  display: flex;
+  justify-content: center;
+  /* align-items: center;
+  align-content: center; */
+  margin: 0;
+  padding: 100px 0;
+  background-color: #ffffff;
+  width: 100%;
+  min-height: 600px;
+  font-size: 24px;
+  color: #21528d;
+}
+
+.vendorProfilePage-profile {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}

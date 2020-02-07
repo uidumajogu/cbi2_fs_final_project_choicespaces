@@ -1,0 +1,17 @@
+{
+  "name": "cbi2_fs_final_project_choicespaces",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "concurrently": "^4.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+.review-row {
+  display: flex;
+}
+
+.review-row img {
+  height: 15px;
+  width: 15px;
+}

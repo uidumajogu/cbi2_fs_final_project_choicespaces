@@ -1,0 +1,16 @@
+.searchBox-wrapper {
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ffffff;
+  border-radius: 40px;
+}
+
+.searchBox-wrapper-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  padding: 3px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ffffff;
+  border-radius: 40px;
+}

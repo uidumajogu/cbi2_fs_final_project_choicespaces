@@ -1,0 +1,21 @@
+.searchResultPage-search-row {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 120px 50px 50px 50px;
+  background-color: #f3f4fb;
+}
+
+.searchResultPage-search-row-body {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: #6e7189;
+  font-size: 14px;
+  text-align: center;
+}
+
+.searchResultPage-search-row-body span {
+  font-weight: bold;
+  color: #242648;
+}

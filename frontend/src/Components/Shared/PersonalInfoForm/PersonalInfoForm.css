@@ -1,0 +1,30 @@
+.PersonalInfoForm-Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  align-content: left;
+}
+
+.PersonalInfoForm-row-Wrapper {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: left;
+  align-content: left;
+  width: 400px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #21528d;
+}
+
+.PersonalInfoForm-error-message {
+  margin-top: 3px;
+  color: #ff9d8e;
+  text-align: left;
+  font-size: 10px;
+}
+
+.PersonalInfoForm-row {
+  display: flex;
+  justify-content: space-between;
+}

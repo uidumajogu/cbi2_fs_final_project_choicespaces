@@ -1,0 +1,17 @@
+.minimalFilterBar-wrapper {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  align-content: center;
+}
+
+.minimalFilterBar-select-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ffffff;
+  border-radius: 40px;
+}

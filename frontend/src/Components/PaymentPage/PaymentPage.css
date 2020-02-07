@@ -1,0 +1,68 @@
+.paymentPage-wrapper {
+  width: 100%;
+  color: #6e7189;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+  padding: 100px 0;
+  background-color: #ffffff;
+}
+
+.paymentPage-wrapper-left {
+  width: 50%;
+  text-align: right;
+}
+
+.paymentPage-wrapper-left-image {
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.paymentPage-wrapper-right {
+  width: 25%;
+  background: #ffffff;
+  border: 1px solid #dde0e7;
+  border-radius: 5px;
+  padding: 20px;
+  color: #242648;
+  font-weight: bold;
+  height: 300px;
+}
+
+.paymentPage-property-image-wrapper {
+  width: 100%;
+  color: #6e7189;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.paymentPage-property-image-wrapper img {
+  object-fit: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 5px;
+}
+
+.paymentPage-amount-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  color: #6e7189;
+}
+
+.paymentPage-amount-row p,
+.paymentPage-amount-row h5 {
+  padding: 0;
+  margin: 0;
+}
+
+.total {
+  font-size: 16px;
+  font-weight: bold;
+  color: #21528d;
+}
