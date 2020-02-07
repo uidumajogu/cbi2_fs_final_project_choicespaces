@@ -1,0 +1,12 @@
+{
+  "name": "cbi2_fs_final_project_choicespaces",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "cd server && nodemon server.js",
+    "frontend": "cd frontend && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.2"
+  }
+}
